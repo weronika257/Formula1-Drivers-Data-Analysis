@@ -5,8 +5,8 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools and Technologies](#tools-and-technologies)
+- [Data Source](#data-source)
+- [Tools](#tools)
 - [Questions](#questions)
 - [Key Findings](#key-findings)
 - [Limitations](#limitations)
